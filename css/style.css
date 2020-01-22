@@ -1,19 +1,5 @@
 
 
-main {
-    background-color:black;
-}
-
-aside { 
-    background-color: aqua;
-
-}
-
-header,section { height: 600px;
-
-}
-
-
-main,aside { height: 200px; 
+individual,events { height: 200px; background-color: silver;
 
 }

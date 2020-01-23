@@ -1,5 +1,27 @@
 
 
-individual,events { height: 200px; background-color: silver;
+@import url('https://fonts.googleapis.com/css?family=Bangers|Josefin+Sans|Roboto|Six+Caps&display=swap');
 
+
+
+body { 
+    
+    font-family: 'Bangers', cursive;
+}
+
+#mainfont { 
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+individual,events { 
+    
+    height: 200px; background-color: silver;
+
+}
+
+.t {
+
+    background-color: silver;
 }
